@@ -1,0 +1,17 @@
+PWA Icons Required:
+===================
+
+To complete the PWA setup, you need to create two icon files:
+
+1. icon-192.png (192x192 pixels)
+2. icon-512.png (512x512 pixels)
+
+You can:
+- Use an online PWA icon generator
+- Create custom Islamic-themed icons
+- Use a tool like: https://www.pwabuilder.com/imageGenerator
+
+Suggested design: A simple Islamic symbol or Quran-related icon with a green color scheme to match the app theme.
+
+Once created, place both files in the /public folder.
+

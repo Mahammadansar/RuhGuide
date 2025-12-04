@@ -1,0 +1,547 @@
+{
+  "stressed": {
+    "verses": [
+      {
+        "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مَخْرَجًا",
+        "transliteration": "Wa man yattaqillaha yaj'al lahu makhrajan",
+        "translation": "And whoever fears Allah - He will make for him a way out",
+        "surah": "At-Talaq",
+        "ayah": "2"
+      },
+      {
+        "arabic": "وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ يُسْرًا",
+        "transliteration": "Wa man yattaqillaha yaj'al lahu min amrihi yusran",
+        "translation": "And whoever fears Allah - He will make for him of his matter ease",
+        "surah": "At-Talaq",
+        "ayah": "4"
+      },
+      {
+        "arabic": "أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ",
+        "transliteration": "Ala bi dhikrillahi tatma'innul qulub",
+        "translation": "Unquestionably, by the remembrance of Allah hearts are assured",
+        "surah": "Ar-Ra'd",
+        "ayah": "28"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Ad-Duha",
+        "reason": "This surah brings comfort and reassurance, reminding us that Allah never abandons us and that ease follows difficulty."
+      },
+      {
+        "name": "Surah Ash-Sharh",
+        "reason": "A beautiful reminder that with every hardship comes ease, providing hope during stressful times."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Tafsir of Surah At-Talaq - Finding Ease in Difficulties",
+        "url": "https://www.youtube.com/results?search_query=tafsir+surah+at-talaq+ease+difficulties"
+      },
+      {
+        "title": "Remembrance of Allah - Peace of Heart",
+        "url": "https://www.youtube.com/results?search_query=dhikr+remembrance+allah+peace+heart+islamic"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحُزْنِ",
+        "transliteration": "Allahumma inni a'udhu bika minal hammi wal huzn",
+        "translation": "O Allah, I seek refuge in You from anxiety and sorrow"
+      },
+      {
+        "arabic": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+        "transliteration": "Allahumma rahmataka arju fala takilni ila nafsi tarfata 'ayn",
+        "translation": "O Allah, I hope for Your mercy, so do not leave me to myself even for the blink of an eye"
+      }
+    ],
+    "explanation": "Stress often comes from feeling overwhelmed by life's challenges. The Quran reminds us that Allah is always with us and will provide a way out. Remembering Allah brings peace to the heart, and every difficulty is followed by ease. Trust in Allah's plan and seek His help through prayer and remembrance."
+  },
+  "lonely": {
+    "verses": [
+      {
+        "arabic": "وَهُوَ مَعَكُمْ أَيْنَ مَا كُنتُمْ",
+        "transliteration": "Wa huwa ma'akum ayna ma kuntum",
+        "translation": "And He is with you wherever you are",
+        "surah": "Al-Hadid",
+        "ayah": "4"
+      },
+      {
+        "arabic": "وَلَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+        "transliteration": "Wa la tahzan innallaha ma'ana",
+        "translation": "And do not grieve; indeed Allah is with us",
+        "surah": "At-Tawbah",
+        "ayah": "40"
+      },
+      {
+        "arabic": "وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ الْوَرِيدِ",
+        "transliteration": "Wa nahnu aqrabu ilayhi min hablil warid",
+        "translation": "And We are nearer to him than [his] jugular vein",
+        "surah": "Qaf",
+        "ayah": "16"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Al-Insan",
+        "reason": "This surah reminds us of Allah's constant presence and care, even when we feel alone."
+      },
+      {
+        "name": "Surah Al-Fatiha",
+        "reason": "The opening chapter establishes our relationship with Allah, reminding us we are never truly alone."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Allah is Always With You - Never Feel Alone",
+        "url": "https://www.youtube.com/results?search_query=allah+always+with+you+loneliness+islamic+guidance"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لَا إِلَهَ إِلَّا أَنْتَ",
+        "transliteration": "Allahumma inni as'aluka bi anna lakal hamd, la ilaha illa ant",
+        "translation": "O Allah, I ask You by virtue of the fact that all praise belongs to You, there is no deity but You"
+      }
+    ],
+    "explanation": "Feeling lonely is a human experience, but remember that Allah is always with you, closer than your jugular vein. His presence is constant, and He knows your feelings. Turn to Him in prayer, and remember that you are part of a global community of believers. Seek connection through worship and community."
+  },
+  "angry": {
+    "verses": [
+      {
+        "arabic": "وَالْكَاظِمِينَ الْغَيْظَ وَالْعَافِينَ عَنِ النَّاسِ",
+        "transliteration": "Wal kaziminal ghayz wal 'afina 'anin nas",
+        "translation": "And those who restrain anger and who pardon the people",
+        "surah": "Ali 'Imran",
+        "ayah": "134"
+      },
+      {
+        "arabic": "وَإِذَا مَا غَضِبُوا هُمْ يَغْفِرُونَ",
+        "transliteration": "Wa idha ma ghadi bu hum yaghfirun",
+        "translation": "And when they are angry, they forgive",
+        "surah": "Ash-Shura",
+        "ayah": "37"
+      },
+      {
+        "arabic": "وَجَزَاءُ سَيِّئَةٍ سَيِّئَةٌ مِّثْلُهَا فَمَنْ عَفَا وَأَصْلَحَ فَأَجْرُهُ عَلَى اللَّهِ",
+        "transliteration": "Wa jazau sayyiatin sayyiatun mithluha, fa man 'afa wa aslaha fa ajruhu 'alallahi",
+        "translation": "And the retribution for an evil act is an evil one like it, but whoever pardons and makes reconciliation - his reward is [due] from Allah",
+        "surah": "Ash-Shura",
+        "ayah": "40"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Al-Furqan",
+        "reason": "Contains guidance on controlling anger and responding with patience and forgiveness."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Controlling Anger in Islam",
+        "url": "https://www.youtube.com/results?search_query=controlling+anger+islam+prophet+hadith+patience"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ",
+        "transliteration": "A'udhu billahi minash shaytanir rajim",
+        "translation": "I seek refuge in Allah from Satan, the accursed"
+      },
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ",
+        "transliteration": "Allahumma inni as'alukal 'afwa wal 'afiyah",
+        "translation": "O Allah, I ask You for pardon and well-being"
+      }
+    ],
+    "explanation": "Anger is a natural emotion, but Islam teaches us to control it. The Prophet (peace be upon him) advised that when angry, one should sit down, and if still angry, lie down. Seek refuge in Allah from Satan, who fuels anger. Practice forgiveness, as it brings great reward from Allah. Remember that controlling anger is a sign of strength, not weakness."
+  },
+  "lost": {
+    "verses": [
+      {
+        "arabic": "وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ",
+        "transliteration": "Wa man yahdillahu fahuwa almuhtad",
+        "translation": "And whoever Allah guides - he is the [rightly] guided",
+        "surah": "Al-A'raf",
+        "ayah": "178"
+      },
+      {
+        "arabic": "وَاللَّهُ يَهْدِي مَن يَشَاءُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+        "transliteration": "Wallahu yahdi man yashau ila siratin mustaqim",
+        "translation": "And Allah guides whom He wills to a straight path",
+        "surah": "Al-Baqarah",
+        "ayah": "213"
+      },
+      {
+        "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "transliteration": "Ihdinas siratal mustaqim",
+        "translation": "Guide us to the straight path",
+        "surah": "Al-Fatiha",
+        "ayah": "6"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Al-Fatiha",
+        "reason": "The opening chapter is a prayer for guidance, perfect when feeling lost or directionless."
+      },
+      {
+        "name": "Surah Al-Baqarah (verses 1-5)",
+        "reason": "These verses describe those who are guided and successful, providing clarity and direction."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Seeking Guidance from Allah",
+        "url": "https://www.youtube.com/results?search_query=seeking+guidance+allah+tafsir+al-fatiha+islamic"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+        "transliteration": "Rabana la tuzigh qulubana ba'da idh hadaytana",
+        "translation": "Our Lord, let not our hearts deviate after You have guided us"
+      },
+      {
+        "arabic": "اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ",
+        "transliteration": "Allahumma arinal haqqa haqqan warzuqna ittiba'ahu",
+        "translation": "O Allah, show us the truth as truth and grant us the ability to follow it"
+      }
+    ],
+    "explanation": "When feeling lost, remember that guidance comes from Allah. The Quran is a clear guide, and sincere prayer for guidance is always answered. Trust in Allah's wisdom and seek His help through prayer and reflection. Sometimes being lost is an opportunity to find a better path. Turn to the Quran and Sunnah for direction."
+  },
+  "grateful": {
+    "verses": [
+      {
+        "arabic": "وَإِن تَعُدُّوا نِعْمَةَ اللَّهِ لَا تُحْصُوهَا",
+        "transliteration": "Wa in ta'uddu ni'matallahi la tuhsuha",
+        "translation": "And if you should count the favors of Allah, you could not enumerate them",
+        "surah": "Ibrahim",
+        "ayah": "34"
+      },
+      {
+        "arabic": "لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ",
+        "transliteration": "La'in shakartum la azidannakum",
+        "translation": "If you are grateful, I will surely increase you [in favor]",
+        "surah": "Ibrahim",
+        "ayah": "7"
+      },
+      {
+        "arabic": "وَمَن يَشْكُرْ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ",
+        "transliteration": "Wa man yashkur fa innama yashkuru linafsih",
+        "translation": "And whoever is grateful - his gratitude is only for [the benefit of] himself",
+        "surah": "An-Naml",
+        "ayah": "40"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Ar-Rahman",
+        "reason": "This beautiful surah enumerates Allah's countless blessings, perfect for expressing gratitude."
+      },
+      {
+        "name": "Surah An-Nahl",
+        "reason": "Describes many of Allah's blessings in nature and life, inspiring gratitude."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "The Power of Gratitude in Islam",
+        "url": "https://www.youtube.com/results?search_query=gratitude+shukr+islam+tafsir+ar-rahman"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ وَلَكَ الشُّكْرُ",
+        "transliteration": "Allahumma lakal hamdu wa lakash shukr",
+        "translation": "O Allah, to You belongs all praise and to You belongs all gratitude"
+      },
+      {
+        "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+        "transliteration": "Alhamdulillahi rabbil 'alamin",
+        "translation": "All praise is due to Allah, Lord of the worlds"
+      }
+    ],
+    "explanation": "Gratitude is one of the most beloved qualities to Allah. When we express gratitude, Allah increases our blessings. Take time to reflect on Allah's countless favors - your health, family, provision, and faith itself. Express gratitude through words, actions, and by using your blessings in ways that please Allah. Gratitude transforms our perspective and brings more blessings into our lives."
+  },
+  "sad": {
+    "verses": [
+      {
+        "arabic": "وَلَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+        "transliteration": "Wa la tahzan innallaha ma'ana",
+        "translation": "And do not grieve; indeed Allah is with us",
+        "surah": "At-Tawbah",
+        "ayah": "40"
+      },
+      {
+        "arabic": "لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+        "transliteration": "La tahzan innallaha ma'ana",
+        "translation": "Do not grieve; indeed Allah is with us",
+        "surah": "At-Tawbah",
+        "ayah": "40"
+      },
+      {
+        "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+        "transliteration": "Wa la tay'asu min rawhillah",
+        "translation": "And do not despair of relief from Allah",
+        "surah": "Yusuf",
+        "ayah": "87"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Ad-Duha",
+        "reason": "A beautiful surah of hope and reassurance, perfect for times of sadness."
+      },
+      {
+        "name": "Surah Yusuf",
+        "reason": "The story of Prophet Yusuf teaches patience and hope during difficult times."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Finding Hope in Times of Sadness",
+        "url": "https://www.youtube.com/results?search_query=hope+sadness+islam+tafsir+ad-duha+yusuf"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحُزْنِ",
+        "transliteration": "Allahumma inni a'udhu bika minal hammi wal huzn",
+        "translation": "O Allah, I seek refuge in You from anxiety and sorrow"
+      },
+      {
+        "arabic": "اللَّهُمَّ رَحْمَتَكَ أَرْجُو فَلَا تَكِلْنِي إِلَى نَفْسِي طَرْفَةَ عَيْنٍ",
+        "transliteration": "Allahumma rahmataka arju fala takilni ila nafsi tarfata 'ayn",
+        "translation": "O Allah, I hope for Your mercy, so do not leave me to myself even for the blink of an eye"
+      }
+    ],
+    "explanation": "Sadness is a natural human emotion, and it's okay to feel it. However, remember that Allah is always with you, and this feeling will pass. The Quran reminds us not to despair, as relief comes from Allah. Turn to prayer, recite Quran, and remember that after every difficulty comes ease. Your sadness is temporary, but Allah's mercy is eternal."
+  },
+  "confused": {
+    "verses": [
+      {
+        "arabic": "وَمَا أُوتِيتُم مِّنَ الْعِلْمِ إِلَّا قَلِيلًا",
+        "transliteration": "Wa ma utitum minal 'ilmi illa qalilan",
+        "translation": "And of knowledge, you have been given only a little",
+        "surah": "Al-Isra",
+        "ayah": "85"
+      },
+      {
+        "arabic": "وَمَن يُؤْتَ الْحِكْمَةَ فَقَدْ أُوتِيَ خَيْرًا كَثِيرًا",
+        "transliteration": "Wa man yu'tal hikmata faqad utiya khayran kathiran",
+        "translation": "And whoever is given wisdom has certainly been given much good",
+        "surah": "Al-Baqarah",
+        "ayah": "269"
+      },
+      {
+        "arabic": "وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْبَابِ",
+        "transliteration": "Wa ma yadhakkaru illa ulul albab",
+        "translation": "And none will remember except those of understanding",
+        "surah": "Ali 'Imran",
+        "ayah": "7"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Al-Kahf",
+        "reason": "Contains profound lessons and wisdom that help clarify confusion and provide understanding."
+      },
+      {
+        "name": "Surah Al-Baqarah (verses 1-5)",
+        "reason": "Describes those who have clarity and understanding through the Quran."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Seeking Clarity and Wisdom",
+        "url": "https://www.youtube.com/results?search_query=seeking+wisdom+knowledge+islam+tafsir+al-kahf"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "رَبِّ زِدْنِي عِلْمًا",
+        "transliteration": "Rabbi zidni 'ilman",
+        "translation": "My Lord, increase me in knowledge"
+      },
+      {
+        "arabic": "اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ",
+        "transliteration": "Allahumma arinal haqqa haqqan warzuqna ittiba'ahu",
+        "translation": "O Allah, show us the truth as truth and grant us the ability to follow it"
+      }
+    ],
+    "explanation": "Confusion often comes from limited knowledge or understanding. The Quran encourages seeking knowledge and wisdom. When confused, turn to reliable Islamic sources, seek knowledge from scholars, and pray for clarity. Remember that some things are beyond human understanding, and that's okay. Trust in Allah's wisdom and seek guidance through prayer and learning."
+  },
+  "afraid": {
+    "verses": [
+      {
+        "arabic": "وَلَا تَخَافُوا وَلَا تَحْزَنُوا",
+        "transliteration": "Wa la takhafu wa la tahzanu",
+        "translation": "And fear not and do not grieve",
+        "surah": "Al-Baqarah",
+        "ayah": "38"
+      },
+      {
+        "arabic": "أَلَا إِنَّ أَوْلِيَاءَ اللَّهِ لَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+        "transliteration": "Ala inna awliya'allahi la khawfun 'alayhim wa la hum yahzanun",
+        "translation": "Unquestionably, [for] the allies of Allah there will be no fear concerning them, nor will they grieve",
+        "surah": "Yunus",
+        "ayah": "62"
+      },
+      {
+        "arabic": "وَعَلَى اللَّهِ فَلْيَتَوَكَّلِ الْمُؤْمِنُونَ",
+        "transliteration": "Wa 'alallahi falyatawakkali almu'minun",
+        "translation": "And upon Allah let the believers rely",
+        "surah": "Ali 'Imran",
+        "ayah": "122"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Al-Falaq",
+        "reason": "A powerful surah seeking protection from all forms of fear and harm."
+      },
+      {
+        "name": "Surah An-Nas",
+        "reason": "Seeks refuge in Allah from all fears and anxieties."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Overcoming Fear with Faith",
+        "url": "https://www.youtube.com/results?search_query=overcoming+fear+faith+islam+tafsir+al-falaq+an-nas"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنْ جَهْدِ الْبَلَاءِ",
+        "transliteration": "Allahumma inni a'udhu bika min jahdil bala",
+        "translation": "O Allah, I seek refuge in You from the severity of trials"
+      },
+      {
+        "arabic": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+        "transliteration": "Hasbunallahu wa ni'mal wakil",
+        "translation": "Sufficient for us is Allah, and [He is] the best Disposer of affairs"
+      }
+    ],
+    "explanation": "Fear is a natural emotion, but remember that Allah is the ultimate protector. When afraid, seek refuge in Allah, recite protective surahs like Al-Falaq and An-Nas, and trust in His protection. The Quran reminds us that those who are close to Allah have no fear. Place your trust in Allah, for He is the best protector and disposer of affairs."
+  },
+  "hopeless": {
+    "verses": [
+      {
+        "arabic": "وَلَا تَيْأَسُوا مِن رَّوْحِ اللَّهِ",
+        "transliteration": "Wa la tay'asu min rawhillah",
+        "translation": "And do not despair of relief from Allah",
+        "surah": "Yusuf",
+        "ayah": "87"
+      },
+      {
+        "arabic": "وَمَن يَقْنَطُ مِن رَّحْمَةِ رَبِّهِ إِلَّا الضَّالُّونَ",
+        "transliteration": "Wa man yaqnutu min rahmati rabbihi illa ad-dallun",
+        "translation": "And who despairs of the mercy of his Lord except for those astray?",
+        "surah": "Al-Hijr",
+        "ayah": "56"
+      },
+      {
+        "arabic": "وَرَحْمَتِي وَسِعَتْ كُلَّ شَيْءٍ",
+        "transliteration": "Wa rahmati wasi'at kulla shay",
+        "translation": "And My mercy encompasses all things",
+        "surah": "Al-A'raf",
+        "ayah": "156"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Yusuf",
+        "reason": "The story of Prophet Yusuf teaches that even in the darkest moments, Allah's plan brings hope and success."
+      },
+      {
+        "name": "Surah Ad-Duha",
+        "reason": "A powerful reminder that Allah never abandons us and that better times are coming."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "Never Lose Hope in Allah's Mercy",
+        "url": "https://www.youtube.com/results?search_query=hope+mercy+allah+tafsir+yusuf+ad-duha+islamic"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ",
+        "transliteration": "Allahumma inni as'alukal 'afwa wal 'afiyah",
+        "translation": "O Allah, I ask You for pardon and well-being"
+      },
+      {
+        "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً",
+        "transliteration": "Rabana atina fid dunya hasanatan wa fil akhirati hasanatan",
+        "translation": "Our Lord, give us good in this world and good in the Hereafter"
+      }
+    ],
+    "explanation": "Hopelessness is one of the most dangerous feelings, but remember that Allah's mercy is vast and encompasses everything. The Quran explicitly tells us not to despair of Allah's mercy. Even when things seem impossible, Allah can change any situation. Trust in His timing and wisdom. Every difficulty is temporary, and relief will come. Keep praying, keep hoping, and keep trusting in Allah's infinite mercy."
+  },
+  "seeking-guidance": {
+    "verses": [
+      {
+        "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ",
+        "transliteration": "Ihdinas siratal mustaqim",
+        "translation": "Guide us to the straight path",
+        "surah": "Al-Fatiha",
+        "ayah": "6"
+      },
+      {
+        "arabic": "وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ",
+        "transliteration": "Wa man yahdillahu fahuwa almuhtad",
+        "translation": "And whoever Allah guides - he is the [rightly] guided",
+        "surah": "Al-A'raf",
+        "ayah": "178"
+      },
+      {
+        "arabic": "وَاللَّهُ يَهْدِي مَن يَشَاءُ إِلَىٰ صِرَاطٍ مُّسْتَقِيمٍ",
+        "transliteration": "Wallahu yahdi man yashau ila siratin mustaqim",
+        "translation": "And Allah guides whom He wills to a straight path",
+        "surah": "Al-Baqarah",
+        "ayah": "213"
+      }
+    ],
+    "surahs": [
+      {
+        "name": "Surah Al-Fatiha",
+        "reason": "The opening chapter is the ultimate prayer for guidance, recited in every prayer."
+      },
+      {
+        "name": "Surah Al-Baqarah (verses 1-5)",
+        "reason": "Describes the characteristics of those who are guided and successful."
+      },
+      {
+        "name": "Surah Al-Kahf",
+        "reason": "Contains profound guidance and wisdom for navigating life's challenges."
+      }
+    ],
+    "tafseer": [
+      {
+        "title": "The Path of Guidance in Islam",
+        "url": "https://www.youtube.com/results?search_query=guidance+straight+path+islam+tafsir+al-fatiha+al-baqarah"
+      }
+    ],
+    "duas": [
+      {
+        "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+        "transliteration": "Rabana la tuzigh qulubana ba'da idh hadaytana",
+        "translation": "Our Lord, let not our hearts deviate after You have guided us"
+      },
+      {
+        "arabic": "اللَّهُمَّ أَرِنَا الْحَقَّ حَقًّا وَارْزُقْنَا اتِّبَاعَهُ",
+        "transliteration": "Allahumma arinal haqqa haqqan warzuqna ittiba'ahu",
+        "translation": "O Allah, show us the truth as truth and grant us the ability to follow it"
+      },
+      {
+        "arabic": "رَبِّ زِدْنِي عِلْمًا",
+        "transliteration": "Rabbi zidni 'ilman",
+        "translation": "My Lord, increase me in knowledge"
+      }
+    ],
+    "explanation": "Seeking guidance is a continuous journey in Islam. The Quran is the ultimate guide, and sincere prayer for guidance is always answered. When seeking guidance, turn to the Quran, follow the Sunnah of the Prophet (peace be upon him), seek knowledge from reliable sources, and pray sincerely. Guidance comes to those who seek it with an open heart and sincere intention. Trust in Allah's wisdom and be patient in your search."
+  }
+}
+
