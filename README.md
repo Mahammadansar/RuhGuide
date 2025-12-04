@@ -21,6 +21,23 @@ A full-stack Islamic web application that provides personalized Quranic guidance
 - **Styling**: TailwindCSS
 - **Animations**: Framer Motion
 - **Deployment**: Vercel-ready
+- **PWA**: Fully configured for mobile installation
+
+## 📱 Live App & Installation
+
+**Repository**: [https://github.com/Mahammadansar/RuhGuide](https://github.com/Mahammadansar/RuhGuide)
+
+### Deploy to Vercel:
+1. Go to [vercel.com](https://vercel.com)
+2. Import repository: `Mahammadansar/RuhGuide`
+3. Click Deploy (auto-detects Next.js)
+4. Your app will be live in minutes!
+
+### Install on Phone:
+- **Android**: Open in Chrome → Menu → "Add to Home screen"
+- **iOS**: Open in Safari → Share → "Add to Home Screen"
+
+See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed instructions.
 
 ## 📦 Installation
 
