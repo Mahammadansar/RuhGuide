@@ -54,17 +54,14 @@ export default function DonationButton() {
               />
             </div>
             <p className="text-xs text-gray-500 dark:text-gray-400 text-center">
-              UPI ID: <span className="font-mono font-semibold">yourupi@paytm</span>
-            </p>
-            <p className="text-xs text-gray-500 dark:text-gray-400 text-center mt-1">
-              (Replace with your actual UPI ID)
+              UPI ID: <span className="font-mono font-semibold">7338490213@ybl</span>
             </p>
           </div>
 
           <div className="space-y-2">
             <button
               onClick={() => {
-                navigator.clipboard.writeText('yourupi@paytm') // Replace with your UPI ID
+                navigator.clipboard.writeText('7338490213@ybl')
                 alert('UPI ID copied to clipboard!')
               }}
               className="block w-full px-3 py-2 bg-blue-600 text-white rounded text-center text-sm hover:bg-blue-700 transition-colors"

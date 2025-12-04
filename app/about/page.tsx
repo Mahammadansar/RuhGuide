@@ -104,11 +104,11 @@ export default function AboutPage() {
                   </p>
                   <div className="flex items-center justify-center gap-2">
                     <code className="px-4 py-2 bg-gray-100 dark:bg-slate-800 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-lg">
-                      yourupi@paytm
+                      7338490213@ybl
                     </code>
                     <button
                       onClick={() => {
-                        navigator.clipboard.writeText('yourupi@paytm')
+                        navigator.clipboard.writeText('7338490213@ybl')
                         alert('UPI ID copied to clipboard!')
                       }}
                       className="px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm"
@@ -116,9 +116,6 @@ export default function AboutPage() {
                       📋 Copy
                     </button>
                   </div>
-                  <p className="text-xs text-gray-500 dark:text-gray-400 mt-2 italic">
-                    (Replace with your actual UPI ID)
-                  </p>
                 </div>
               </div>
 
