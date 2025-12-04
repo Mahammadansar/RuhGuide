@@ -3,6 +3,7 @@
 import Link from 'next/link'
 import { useTheme } from './ThemeProvider'
 import { motion } from 'framer-motion'
+import DonationButton from './DonationButton'
 
 export default function Navbar() {
   const { theme, toggleTheme } = useTheme()
@@ -20,6 +21,7 @@ export default function Navbar() {
           >
             About
           </Link>
+          <DonationButton />
           <button
             onClick={toggleTheme}
             className="p-2 rounded-lg bg-gray-200 dark:bg-slate-700 hover:bg-gray-300 dark:hover:bg-slate-600 transition-colors"

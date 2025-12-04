@@ -56,6 +56,36 @@ export default function AboutPage() {
             </p>
           </div>
 
+          <div className="card-gradient rounded-xl p-8 mb-6">
+            <h2 className="text-2xl font-semibold mb-4 text-gray-900 dark:text-gray-100">
+              Support This Project
+            </h2>
+            <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
+              Quran Mood Finder is a free service provided to help the Muslim community. If you find value in this app, consider supporting us. Your support helps us maintain and improve the app, and can be considered sadaqah jariyah (ongoing charity).
+            </p>
+            <div className="flex flex-wrap gap-4 mt-4">
+              <a
+                href="https://paypal.me/yourpaypal"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-semibold"
+              >
+                💳 Donate via PayPal
+              </a>
+              <a
+                href="https://patreon.com/yourpatreon"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-6 py-3 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors font-semibold"
+              >
+                ⭐ Support on Patreon
+              </a>
+            </div>
+            <p className="text-sm text-gray-500 dark:text-gray-400 mt-4 italic">
+              Note: Replace the donation links above with your actual PayPal/Patreon links
+            </p>
+          </div>
+
           <div className="text-center mt-8">
             <Link
               href="/"
