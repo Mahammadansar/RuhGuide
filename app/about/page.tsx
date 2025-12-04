@@ -63,27 +63,72 @@ export default function AboutPage() {
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-4">
               Quran Mood Finder is a free service provided to help the Muslim community. If you find value in this app, consider supporting us. Your support helps us maintain and improve the app, and can be considered sadaqah jariyah (ongoing charity).
             </p>
-            <div className="flex flex-wrap gap-4 mt-4">
-              <a
-                href="https://paypal.me/yourpaypal"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-semibold"
-              >
-                💳 Donate via PayPal
-              </a>
-              <a
-                href="https://patreon.com/yourpatreon"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-6 py-3 bg-orange-600 text-white rounded-lg hover:bg-orange-700 transition-colors font-semibold"
-              >
-                ⭐ Support on Patreon
-              </a>
+            
+            {/* UPI Payment Section */}
+            <div className="bg-white dark:bg-slate-900 rounded-xl p-6 mb-4 border-2 border-green-200 dark:border-green-800">
+              <h3 className="text-xl font-semibold mb-3 text-gray-900 dark:text-gray-100 text-center">
+                💳 Donate via UPI
+              </h3>
+              <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 text-center">
+                Scan the QR code with any UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.)
+              </p>
+              
+              <div className="flex flex-col items-center mb-4">
+                <div className="bg-white p-4 rounded-lg border-2 border-gray-300 mb-3">
+                  <img
+                    src="/upi-qr-code.png"
+                    alt="UPI QR Code"
+                    className="w-64 h-64"
+                    onError={(e) => {
+                      const target = e.target as HTMLImageElement
+                      target.style.display = 'none'
+                      const parent = target.parentElement
+                      if (parent) {
+                        parent.innerHTML = `
+                          <div class="w-64 h-64 bg-gray-200 dark:bg-gray-700 rounded flex items-center justify-center text-gray-500 dark:text-gray-400 text-sm text-center p-4">
+                            <div>
+                              <p class="mb-2">📱 Add your UPI QR code</p>
+                              <p class="text-xs">Save as: /public/upi-qr-code.png</p>
+                              <p class="text-xs mt-2">Size: 512x512 pixels recommended</p>
+                            </div>
+                          </div>
+                        `
+                      }
+                    }}
+                  />
+                </div>
+                
+                <div className="text-center">
+                  <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
+                    Or send directly to UPI ID:
+                  </p>
+                  <div className="flex items-center justify-center gap-2">
+                    <code className="px-4 py-2 bg-gray-100 dark:bg-slate-800 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-lg">
+                      yourupi@paytm
+                    </code>
+                    <button
+                      onClick={() => {
+                        navigator.clipboard.writeText('yourupi@paytm')
+                        alert('UPI ID copied to clipboard!')
+                      }}
+                      className="px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm"
+                    >
+                      📋 Copy
+                    </button>
+                  </div>
+                  <p className="text-xs text-gray-500 dark:text-gray-400 mt-2 italic">
+                    (Replace with your actual UPI ID)
+                  </p>
+                </div>
+              </div>
+
+              <div className="bg-green-50 dark:bg-green-900/20 rounded-lg p-3 mt-4">
+                <p className="text-xs text-gray-700 dark:text-gray-300 text-center">
+                  💡 <strong>How to generate UPI QR code:</strong> Open your UPI app (Google Pay/PhonePe/Paytm) → 
+                  Go to "Receive Money" or "Your QR Code" → Save the QR code image
+                </p>
+              </div>
             </div>
-            <p className="text-sm text-gray-500 dark:text-gray-400 mt-4 italic">
-              Note: Replace the donation links above with your actual PayPal/Patreon links
-            </p>
           </div>
 
           <div className="text-center mt-8">

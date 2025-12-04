@@ -3,13 +3,13 @@
 ## 🎯 Ethical Monetization Approaches
 
 ### 1. **Donations & Sadaqah (Recommended)**
-- **Implementation**: Add a "Support Us" button linking to donation platforms
+- **Implementation**: Add a "Support Us" button with UPI QR code
 - **Platforms**: 
-  - PayPal Donate button
-  - Stripe for one-time/monthly donations
-  - Patreon for recurring supporters
-- **Why it works**: Aligns with Islamic values, users can give sadaqah
-- **Code Example**: Add donation component to About page
+  - UPI QR Code (Google Pay, PhonePe, Paytm) - Most popular in India
+  - Stripe for one-time/monthly donations (international)
+  - Patreon for recurring supporters (optional)
+- **Why it works**: Aligns with Islamic values, users can give sadaqah. UPI is instant and widely used in India.
+- **Code Example**: DonationButton component with QR code display
 
 ### 2. **Premium Features (Freemium Model)**
 - **Free Tier**: Current features (mood selection, basic guidance)

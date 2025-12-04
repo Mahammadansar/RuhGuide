@@ -1,0 +1,32 @@
+UPI QR Code Setup Instructions
+==============================
+
+1. Generate Your UPI QR Code:
+   - Open your UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.)
+   - Go to "Receive Money" or "Your QR Code" section
+   - Save/download the QR code image
+
+2. Add to Project:
+   - Save the QR code image as: upi-qr-code.png
+   - Place it in the /public folder
+   - Recommended size: 512x512 pixels or larger
+   - Format: PNG with transparent background (optional)
+
+3. Update UPI ID:
+   - Open components/DonationButton.tsx
+   - Replace "yourupi@paytm" with your actual UPI ID
+   - Open app/about/page.tsx
+   - Replace "yourupi@paytm" with your actual UPI ID
+
+4. Test:
+   - The QR code should appear in the donation popup
+   - Users can scan it with any UPI app
+   - The "Copy UPI ID" button will copy your UPI ID
+
+Example UPI IDs format:
+- yourname@paytm
+- yourname@ybl (PhonePe)
+- yourname@okaxis (Axis Bank)
+- yourname@okhdfcbank (HDFC Bank)
+- yourname@upi (BHIM)
+
