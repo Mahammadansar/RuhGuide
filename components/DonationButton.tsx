@@ -44,7 +44,7 @@ export default function DonationButton() {
               Or use UPI ID:
             </p>
             <div className="flex items-center gap-2 w-full">
-              <code className="flex-1 px-3 py-2 bg-gray-100 dark:bg-slate-700 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-sm text-center">
+              <code className="flex-1 px-3 py-2 bg-white dark:bg-slate-700 border-2 border-green-500 dark:border-green-400 rounded-lg text-green-600 dark:text-green-400 font-mono font-bold text-sm text-center shadow-md">
                 7338490213@ybl
               </code>
               <button
@@ -52,7 +52,7 @@ export default function DonationButton() {
                   navigator.clipboard.writeText('7338490213@ybl')
                   alert('UPI ID copied to clipboard!')
                 }}
-                className="px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm"
+                className="px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm shadow-md"
                 title="Copy UPI ID"
               >
                 📋

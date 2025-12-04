@@ -83,11 +83,11 @@ export default function AboutPage() {
                   />
                 </div>
                 
-                <p className="text-sm text-gray-600 dark:text-gray-400 mb-3 text-center">
+                <p className="text-sm text-gray-700 dark:text-gray-300 mb-3 text-center font-medium">
                   Or send directly to UPI ID:
                 </p>
-                <div className="flex items-center justify-center gap-2 w-full max-w-md">
-                  <code className="flex-1 px-4 py-3 bg-gray-100 dark:bg-slate-800 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-lg text-center">
+                <div className="flex items-center justify-center gap-2 w-full max-w-md mb-2">
+                  <code className="flex-1 px-4 py-3 bg-white dark:bg-slate-700 border-2 border-green-500 dark:border-green-400 rounded-lg text-green-600 dark:text-green-400 font-mono font-bold text-lg text-center shadow-md">
                     7338490213@ybl
                   </code>
                   <button
@@ -95,7 +95,7 @@ export default function AboutPage() {
                       navigator.clipboard.writeText('7338490213@ybl')
                       alert('UPI ID copied to clipboard!')
                     }}
-                    className="px-4 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-semibold"
+                    className="px-4 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-semibold shadow-md"
                   >
                     📋 Copy
                   </button>
