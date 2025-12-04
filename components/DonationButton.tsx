@@ -33,7 +33,7 @@ export default function DonationButton() {
           <div className="mb-3 flex flex-col items-center">
             <div className="bg-white p-3 rounded-lg border-2 border-gray-300 mb-2">
               <Image
-                src="/upi-qr-code.png"
+                src="/upi-qr-code.jpg"
                 alt="UPI QR Code"
                 width={200}
                 height={200}

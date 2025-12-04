@@ -77,7 +77,7 @@ export default function AboutPage() {
                 {/* UPI QR Code */}
                 <div className="bg-white p-4 rounded-lg border-2 border-gray-300 mb-4">
                   <img
-                    src="/upi-qr-code.png"
+                    src="/upi-qr-code.jpg"
                     alt="UPI QR Code"
                     className="w-64 h-64"
                   />
