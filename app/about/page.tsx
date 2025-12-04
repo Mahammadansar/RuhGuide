@@ -70,59 +70,29 @@ export default function AboutPage() {
                 💳 Donate via UPI
               </h3>
               <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 text-center">
-                Scan the QR code with any UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.)
+                Send your support using any UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.)
               </p>
               
-              <div className="flex flex-col items-center mb-4">
-                <div className="bg-white p-4 rounded-lg border-2 border-gray-300 mb-3">
-                  <img
-                    src="/upi-qr-code.png"
-                    alt="UPI QR Code"
-                    className="w-64 h-64"
-                    onError={(e) => {
-                      const target = e.target as HTMLImageElement
-                      target.style.display = 'none'
-                      const parent = target.parentElement
-                      if (parent) {
-                        parent.innerHTML = `
-                          <div class="w-64 h-64 bg-gray-200 dark:bg-gray-700 rounded flex items-center justify-center text-gray-500 dark:text-gray-400 text-sm text-center p-4">
-                            <div>
-                              <p class="mb-2">📱 Add your UPI QR code</p>
-                              <p class="text-xs">Save as: /public/upi-qr-code.png</p>
-                              <p class="text-xs mt-2">Size: 512x512 pixels recommended</p>
-                            </div>
-                          </div>
-                        `
-                      }
+              <div className="flex flex-col items-center">
+                <p className="text-sm text-gray-600 dark:text-gray-400 mb-3 text-center">
+                  UPI ID:
+                </p>
+                <div className="flex items-center justify-center gap-2 w-full max-w-md">
+                  <code className="flex-1 px-4 py-3 bg-gray-100 dark:bg-slate-800 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-lg text-center">
+                    7338490213@ybl
+                  </code>
+                  <button
+                    onClick={() => {
+                      navigator.clipboard.writeText('7338490213@ybl')
+                      alert('UPI ID copied to clipboard!')
                     }}
-                  />
+                    className="px-4 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm font-semibold"
+                  >
+                    📋 Copy
+                  </button>
                 </div>
-                
-                <div className="text-center">
-                  <p className="text-sm text-gray-600 dark:text-gray-400 mb-2">
-                    Or send directly to UPI ID:
-                  </p>
-                  <div className="flex items-center justify-center gap-2">
-                    <code className="px-4 py-2 bg-gray-100 dark:bg-slate-800 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-lg">
-                      7338490213@ybl
-                    </code>
-                    <button
-                      onClick={() => {
-                        navigator.clipboard.writeText('7338490213@ybl')
-                        alert('UPI ID copied to clipboard!')
-                      }}
-                      className="px-3 py-2 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors text-sm"
-                    >
-                      📋 Copy
-                    </button>
-                  </div>
-                </div>
-              </div>
-
-              <div className="bg-green-50 dark:bg-green-900/20 rounded-lg p-3 mt-4">
-                <p className="text-xs text-gray-700 dark:text-gray-300 text-center">
-                  💡 <strong>How to generate UPI QR code:</strong> Open your UPI app (Google Pay/PhonePe/Paytm) → 
-                  Go to "Receive Money" or "Your QR Code" → Save the QR code image
+                <p className="text-xs text-gray-500 dark:text-gray-400 mt-3 text-center">
+                  Copy the UPI ID and paste it in your UPI app to send payment
                 </p>
               </div>
             </div>
