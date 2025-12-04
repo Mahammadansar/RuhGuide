@@ -70,12 +70,21 @@ export default function AboutPage() {
                 💳 Donate via UPI
               </h3>
               <p className="text-sm text-gray-600 dark:text-gray-400 mb-4 text-center">
-                Send your support using any UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.)
+                Scan the QR code or use UPI ID with any UPI app (Google Pay, PhonePe, Paytm, BHIM, etc.)
               </p>
               
               <div className="flex flex-col items-center">
+                {/* UPI QR Code */}
+                <div className="bg-white p-4 rounded-lg border-2 border-gray-300 mb-4">
+                  <img
+                    src="/upi-qr-code.png"
+                    alt="UPI QR Code"
+                    className="w-64 h-64"
+                  />
+                </div>
+                
                 <p className="text-sm text-gray-600 dark:text-gray-400 mb-3 text-center">
-                  UPI ID:
+                  Or send directly to UPI ID:
                 </p>
                 <div className="flex items-center justify-center gap-2 w-full max-w-md">
                   <code className="flex-1 px-4 py-3 bg-gray-100 dark:bg-slate-800 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-lg text-center">
@@ -92,7 +101,7 @@ export default function AboutPage() {
                   </button>
                 </div>
                 <p className="text-xs text-gray-500 dark:text-gray-400 mt-3 text-center">
-                  Copy the UPI ID and paste it in your UPI app to send payment
+                  Scan the QR code or copy the UPI ID to send payment
                 </p>
               </div>
             </div>

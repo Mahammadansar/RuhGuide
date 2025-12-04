@@ -2,6 +2,7 @@
 
 import { motion } from 'framer-motion'
 import { useState } from 'react'
+import Image from 'next/image'
 
 export default function DonationButton() {
   const [showOptions, setShowOptions] = useState(false)
@@ -21,17 +22,26 @@ export default function DonationButton() {
         <motion.div
           initial={{ opacity: 0, y: -10 }}
           animate={{ opacity: 1, y: 0 }}
-          className="absolute right-0 mt-2 w-72 bg-white dark:bg-slate-800 rounded-lg shadow-xl p-4 z-50 border border-gray-200 dark:border-slate-700"
+          className="absolute right-0 mt-2 w-80 bg-white dark:bg-slate-800 rounded-lg shadow-xl p-4 z-50 border border-gray-200 dark:border-slate-700"
         >
           <h3 className="font-bold mb-2 text-gray-900 dark:text-gray-100">Support Quran Mood Finder</h3>
-          <p className="text-sm text-gray-600 dark:text-gray-400 mb-4">
-            Send your support via UPI. Your contribution is sadaqah jariyah (ongoing charity).
+          <p className="text-sm text-gray-600 dark:text-gray-400 mb-3">
+            Scan the QR code or copy UPI ID to support us. Your contribution is sadaqah jariyah (ongoing charity).
           </p>
           
-          {/* UPI ID */}
-          <div className="mb-4 flex flex-col items-center">
-            <p className="text-xs text-gray-500 dark:text-gray-400 mb-2 text-center">
-              UPI ID:
+          {/* UPI QR Code */}
+          <div className="mb-3 flex flex-col items-center">
+            <div className="bg-white p-3 rounded-lg border-2 border-gray-300 mb-2">
+              <Image
+                src="/upi-qr-code.png"
+                alt="UPI QR Code"
+                width={200}
+                height={200}
+                className="w-48 h-48"
+              />
+            </div>
+            <p className="text-xs text-gray-500 dark:text-gray-400 text-center mb-2">
+              Or use UPI ID:
             </p>
             <div className="flex items-center gap-2 w-full">
               <code className="flex-1 px-3 py-2 bg-gray-100 dark:bg-slate-700 rounded-lg text-green-600 dark:text-green-400 font-mono font-semibold text-sm text-center">
